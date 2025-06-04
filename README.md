@@ -21,17 +21,33 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
-  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"></a>
-  <a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka"></a>
-</p>
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Databases & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### **IoT & Hardware**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
@@ -47,6 +63,31 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ---
 
+
+## 💼 Featured Projects
+
+### **1. Secure Environment for Valuable Trees (Project SAMS)**
+- **Tech:** React, Node.js, MongoDB, AWS EC2, Kafka, Redis, WebSocket
+- **Impact:** Real-time tree monitoring with alert systems (WhatsApp/email) to prevent illegal logging.
+- **Details:** IoT solution using LoRa modules and vibration sensors to detect anomalies and trigger alerts.
+
+### **2. IndusGeotracking (Battery Theft Prevention)**
+- **Tech:** Java, Spring Boot, React, PostgreSQL, Geo-fencing
+- **Impact:** Reduced battery theft by 30% with real-time GPS tracking and alerts.
+- **Details:** Deployed on AWS with a React dashboard for monitoring battery locations.
+
+### **3. Saferide: Smartphone-Controlled Vehicle Security**
+- **Tech:** ESP32, Bluetooth, React Native, Sensors
+- **Impact:** Replaced traditional keys with a **smartphone-authenticated security system** for vehicles.
+- **Features:** Proximity-based locking, vibration alarms, and wireless control.
+
+### **4. Versatile Booking Application (Telangana Tourism)**
+- **Tech:** React, Node.js, PostgreSQL, Docker, CI/CD
+- **Impact:** Streamlined bookings for hotels, flights, and tours with AI-driven suggestions.
+- **Details:** Hosted on an in-house Ubuntu server with Bitbucket for version control.
+
+---
+
 ### 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-mandal-43551824"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -56,8 +97,15 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ---
 
+## 💬 Let’s Chat!
+
+Whether you’re here for **tech collaborations, job opportunities, or just a friendly chat**, I’d love to connect! Drop me a message, and let’s build something amazing together. 🚀
+
+---
+
 > *“Building intelligent systems, one line of code at a time.”* 💻
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bohemiyan&style=flat-square&color=blue" alt="Profile Views">
 </div>
+
