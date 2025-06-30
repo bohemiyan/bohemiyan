@@ -1,23 +1,31 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://profile.dopum.in">Chirag Mandal</a>!</h1>
-  <p>A <strong>Full Stack Developer</strong> passionate about crafting scalable systems, from <b>microservices</b> to <b>AI-driven applications</b>.</p>
+  <p>
+    A <strong>Full Stack Developer</strong> passionate about crafting scalable systems — from <b>microservices</b> to <b>AI-driven applications</b>.
+  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=bohemiyan&show_icons=true&count_private=true&theme=radical" height="180px" alt="GitHub Stats">
 </div>
 
 ---
 
 ### 🌟 About Me
-I'm a tech enthusiast who thrives on building **robust, scalable systems** with **Java**, **Spring Boot**, and the **MERN stack**. My current obsession? Diving into **AI**, **system design**, and **automation** to create intelligent solutions. When I'm not coding, you’ll find me tinkering in my **home lab**, automating workflows, or strategizing over a chessboard. ♟️
+
+I'm a tech enthusiast who thrives on building **robust, scalable systems** using **Java**, **Spring Boot**, and the **MERN stack**. My current obsession? Diving into **AI**, **system design**, and **automation** to craft intelligent, efficient solutions.
+
+When I'm not coding, you’ll find me tinkering in my **home lab**, automating workflows, or strategizing over a chessboard. ♟️
 
 ---
 
 ### 🚀 What I'm Working On
+
 - 🧠 Developing **AI-powered tools** for:
   - Automated test case generation
   - Custom chatbots with seamless backend integrations
   - Real-time intelligent trading systems
+
 - 🏠 Scaling my **home automation lab** with edge AI & IoT
-- 🌐 Contributing to **open-source** projects and internal dev tools
+
+- 🌐 Actively contributing to **open-source** projects and internal dev tools
 
 ---
 
@@ -50,7 +58,8 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
+
 <details>
   <summary><b>🔍 Click to View Stats</b></summary>
   <p align="center">
@@ -62,32 +71,60 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ---
 
+## 🌐 DDNS-ipkeeper
+
+> **Dynamic IP, Static Dreams** – because your wallet shouldn't cry every time your IP changes! 💸
+
+Turn your AWS free-tier EC2 instance into a smart reverse proxy, making your home server accessible 24/7 — even when your ISP changes your IP at will. No expensive static IP plans, no daily IP update headaches.
+
+### 🎭 The Struggle is Real
+- Your ISP changes IPs more often than socks 🧦
+- Static IP plans = expensive ☕
+- Friends can't access your awesome home server 😢
+- Explaining the new IP daily? No thanks 🔄
+
+---
+
+## 🚘 Saferide: Smartphone-Controlled Vehicle Security System
+
+A compact, Bluetooth-enabled device that enhances vehicle security by replacing traditional keys with smartphone authentication.
+
+---
+
+## ☀️ Soler Monitor
+
+A LoRa-based solution for monitoring and storing solar panel performance, built with:
+- LoRa transmitters & gateways
+- Backend + UI for analytics & alerting
+
+---
 
 ## 💼 Featured Projects
 
 ### **1. Secure Environment for Valuable Trees (Project SAMS)**
-- **Tech:** React, Node.js, MongoDB, AWS EC2, Kafka, Redis, WebSocket
-- **Impact:** Real-time tree monitoring with alert systems (WhatsApp/email) to prevent illegal logging.
-- **Details:** IoT solution using LoRa modules and vibration sensors to detect anomalies and trigger alerts.
+- **Stack:** React, Node.js, MongoDB, AWS EC2, Kafka, Redis, WebSocket  
+- **Impact:** Prevents illegal logging with real-time alerts via WhatsApp/email  
+- **Details:** IoT + LoRa + vibration sensors to detect tree tampering
 
 ### **2. IndusGeotracking (Battery Theft Prevention)**
-- **Tech:** Java, Spring Boot, React, PostgreSQL, Geo-fencing
-- **Impact:** Reduced battery theft by 30% with real-time GPS tracking and alerts.
-- **Details:** Deployed on AWS with a React dashboard for monitoring battery locations.
+- **Stack:** Java, Spring Boot, React, PostgreSQL, Geo-fencing  
+- **Impact:** Reduced battery theft by 30% with real-time GPS tracking  
+- **Details:** AWS-hosted with interactive monitoring dashboard
 
 ### **3. Saferide: Smartphone-Controlled Vehicle Security**
-- **Tech:** ESP32, Bluetooth, React Native, Sensors
-- **Impact:** Replaced traditional keys with a **smartphone-authenticated security system** for vehicles.
-- **Features:** Proximity-based locking, vibration alarms, and wireless control.
+- **Stack:** ESP32, Bluetooth, React Native, Sensors  
+- **Impact:** Smart locking & tamper alerts via mobile  
+- **Features:** Proximity-based lock, vibration detection, wireless control
 
-### **4. Versatile Booking Application (Telangana Tourism)**
-- **Tech:** React, Node.js, PostgreSQL, Docker, CI/CD
-- **Impact:** Streamlined bookings for hotels, flights, and tours with AI-driven suggestions.
-- **Details:** Hosted on an in-house Ubuntu server with Bitbucket for version control.
+### **4. Versatile Booking App (Telangana Tourism)**
+- **Stack:** React, Node.js, PostgreSQL, Docker, CI/CD  
+- **Impact:** AI-enhanced hotel/flight/tour bookings  
+- **Details:** Deployed on private Ubuntu server with Bitbucket CI
 
 ---
 
 ### 📬 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-mandal-43551824"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:chiragmnndl@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -98,13 +135,12 @@ I'm a tech enthusiast who thrives on building **robust, scalable systems** with 
 
 ## 💬 Let’s Chat!
 
-Whether you’re here for **tech collaborations, job opportunities, or just a friendly chat**, I’d love to connect! Drop me a message, and let’s build something amazing together. 🚀
+Whether it’s for **tech collaborations, job opportunities, or a good convo**, I’d love to connect. Drop a message — let’s build something amazing together. 🚀
 
 ---
 
-> *“Building intelligent systems, one line of code at a time.”* 💻
+> *“Building intelligent systems, one line of code at a time.”*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bohemiyan&style=flat-square&color=blue" alt="Profile Views">
 </div>
-
