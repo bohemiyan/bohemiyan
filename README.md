@@ -72,8 +72,7 @@ When I'm not coding, you’ll find me tinkering in my **home lab**, automating w
 </details>
 
 ---
-<a href="https://www.linkedin.com/in/chirag-mandal-435518241](https://github.com/bohemiyan/DDNS-ipkeeper">
-## 🌐 DDNS-ipkeeper
+## 🌐 [DDNS-ipkeeper](https://github.com/bohemiyan/DDNS-ipkeeper)
 
 
 > **Dynamic IP, Static Dreams** – because your wallet shouldn't cry every time your IP changes! 💸
