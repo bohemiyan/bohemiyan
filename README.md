@@ -62,14 +62,12 @@ When I'm not coding, you’ll find me tinkering in my **home lab**, automating w
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary><b>🔍 Click to View Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bohemiyan&show_icons=true&count_private=true&theme=radical" width="400" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bohemiyan&theme=radical" width="400" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohemiyan&layout=compact&langs_count=10&theme=radical" width="400" alt="Top Languages">
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bohemiyan&show_icons=true&count_private=true&theme=radical" width="400" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bohemiyan&theme=radical" width="400" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohemiyan&layout=compact&langs_count=10&theme=radical" width="400" alt="Top Languages">
+</p>
+
 
 ---
 ## 🌐 [DDNS-ipkeeper](https://github.com/bohemiyan/DDNS-ipkeeper)
