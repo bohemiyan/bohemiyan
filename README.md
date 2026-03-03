@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-I'm a tech enthusiast who thrives on building **robust, scalable systems** using **Java**, **Spring Boot**, and the **MERN stack**. My current obsession? Diving into **AI**, **system design**, and **automation** to craft intelligent, efficient solutions.
+I'm a tech enthusiast who thrives on building **robust, scalable systems** using **Go**, **Java**, **Spring Boot**, and the **MERN stack**. My current obsession? Diving into **AI**, **system design**, and **automation** to craft intelligent, efficient solutions.
 
 When I'm not coding, you’ll find me tinkering in my **home lab**, automating workflows, or strategizing over a chessboard. ♟️
 
